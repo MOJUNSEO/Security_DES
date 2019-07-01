@@ -2,16 +2,8 @@
 ## 암호화 맛보기.
 
 ### Why did i choose this.
-
+- 기초 암호학, 표준 암호인 DES 구현해보고자 진행.
 ### Development Environments.
-- Android
-- Rasberrypi
-- Arduino
-- Robot
+- Document of Data Encryption 
+- java
 
-### Configuration.
-
-
-### What did i learn.
-
-### What to do in the future.
